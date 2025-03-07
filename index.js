@@ -1,1 +1,1 @@
-conso.log('hi')
+consox.log('hi')
